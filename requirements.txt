@@ -1,3 +1,5 @@
 ﻿CTranslate2
 faster-whisper
 faster-whisper-cli
+torch
+transformers
